@@ -1,4 +1,4 @@
-# ecg-classification-ml
+# ECG-Classification-CNN
 Ce programme permet de classer des electro-cardiogrammes suivant 5 types : 
 - Rhythme normal
 - Rhythme inconnu
