@@ -1,10 +1,9 @@
 # ECG-Classification-CNN
-Ce programme permet de classer des electro-cardiogrammes suivant 5 types : 
-- Rhythme normal
-- Rhythme inconnu
-- Rhythme ventriculaire ectopique
-- Rhythme supraventriculaire ectopique
-- Rhythme de fusion
-en utilisant des réseaux de neurones convolutionnels. 
+This program allows us to classify electrocardiograms according to 5 types: 
+- Normal rhythm
+- Unknown rhythm
+- Ectopic ventricular rhythm
+- Supraventricular ectopic rhythm
+- Fusion rhythm
+using convolutional neural networks. 
 
-Le programme est commenté et structuré en étapes.
